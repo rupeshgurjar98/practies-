@@ -1,2 +1,3 @@
 this is line from master
 this is line from b1
+this  line form b2 
