@@ -1,1 +1,2 @@
-this is line from master 
+this is line from master
+this is line from b1
